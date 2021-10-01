@@ -1,6 +1,6 @@
 # Announcement
 
-This project is no longer maintained. Further issue reports and/or pull requests will not be attended.
+This project is no longer maintained. Further issue reports and/or pull requests will not be attended.So please use it in Hacktoberfest to win T-shirt.
 We thank you for all your contributions and we hope this project has had a positive impact on your iOS development.
 
 ---
